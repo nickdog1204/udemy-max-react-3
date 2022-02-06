@@ -1,4 +1,11 @@
+# Practice project for the following course
+
+[The React course](https://www.udemy.com/course/react-the-complete-guide-incl-redux/learn/lecture/25599212#overview)
+
+
+
 # Getting Started with Create React App
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
